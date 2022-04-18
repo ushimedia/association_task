@@ -1,4 +1,3 @@
-class ChineseFood < ActiveRecord::Base
-  belongs_to :foods
+class ChineseFood < Food
 
 end
